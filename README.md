@@ -1,3 +1,2 @@
-# IBM
-IBM final assignment - Python project
-Extracting and Visualizing Stock Data
+# Personal project
+Extract current opening jobs on webpage Pizza 4P's 
